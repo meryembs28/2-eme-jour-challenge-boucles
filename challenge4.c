@@ -8,6 +8,4 @@ scanf("%d", &a);
     r = 2*i - 1;
     printf ( " %d , " ,  r);
  } 
-
- 
 }
